@@ -1,0 +1,53 @@
+body {
+    background-color: #dd99ff;
+    max-width:950px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 9px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 60px;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Nova Mono', monospace;
+}
+h3 {
+color: black;
+    text-align: center;
+    font-family: 'Nova Mono', monospace;
+    font-size: 30px;
+}
+p {
+    font-family: 'Baloo Paaji', cursive;
+    font-size: 18px;
+    color: #66ffff;
+
+}
+
+
+img {
+    max-width: 95%;
+}
+
+a:link {
+    color: #ff0000;
+}
+
+a:visited {
+    color: #66ff33;
+}
+
+a:hover {
+    color: #0000ff;
+}
+
+a:active {
+    color: #00ff00;
+}
